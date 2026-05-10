@@ -26,7 +26,7 @@ export const Hero = () => {
           className="w-[55%] md:w-1/2 space-y-4 md:space-y-8 text-left"
         >
           <div>
-            <TypingAnimation className="font-sans font-medium text-sm sm:text-lg text-primary tracking-wide mb-2 md:mb-4 uppercase leading-normal">
+            <TypingAnimation className="font-serif font-medium text-sm sm:text-lg text-primary tracking-wide mb-2 md:mb-4 uppercase leading-normal">
               Hello, I'm VIGNESHWARAN
             </TypingAnimation>
             <div className="flex flex-col gap-2">
